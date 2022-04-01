@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124521540698",
+    "project_id": "fcs-friend-847b9",
+    "storage_bucket": "fcs-friend-847b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124521540698:android:a62443b463c3351ed7fc63",
+        "android_client_info": {
+          "package_name": "com.example.fcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124521540698-ub4euofl94dlf8n6qaf2sr04ib75eeea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcs",
+            "certificate_hash": "db5b74203798508a773c2e8e090d8c68de4eab92"
+          }
+        },
+        {
+          "client_id": "124521540698-sgakrhrmj60h2sbd2qpsaaf2idv9jta7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaKZlO8e82OEKuRm4qJoHd5x-OokYDUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124521540698-sgakrhrmj60h2sbd2qpsaaf2idv9jta7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
