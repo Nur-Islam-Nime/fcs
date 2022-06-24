@@ -22,15 +22,15 @@ Widget customAdminDashboard( ){
         ),
         Positioned(
             child: Column(
-              // mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
 
                 Padding(
-                  padding: const EdgeInsets.all(18.0),
+                  padding: const EdgeInsets.only(bottom: 2.0),
                   child: Image.asset("assets/images/logo2.png",
-                    height: 100,
-                    width: 100,
+                    height: 90,
+                    width: 90,
 
                   ),
                 ),

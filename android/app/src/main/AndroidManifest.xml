@@ -3,7 +3,7 @@
    <application
         android:label="fcs"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/fcs">
         <activity
             android:name=".MainActivity"
             android:exported="true"

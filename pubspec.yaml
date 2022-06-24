@@ -39,6 +39,15 @@ dependencies:
   cloud_firestore: ^3.1.8
   flutter_screenutil: ^5.3.1
   flutter_custom_clippers: ^2.0.0
+  fluttertoast: ^8.0.9
+  rxdart: ^0.27.4
+  shared_preferences: ^2.0.15
+  image_picker: ^0.8.5+3
+  file_picker: ^4.6.1
+
+  firebase_storage: ^10.2.17
+  firebase_messaging: ^11.4.1
+
 
 dev_dependencies:
   flutter_test:
@@ -85,6 +94,7 @@ flutter:
          - asset: assets/fonts/Montserrat-BoldItalic.ttf
          - asset: assets/fonts/Montserrat-Italic.ttf
          - asset: assets/fonts/Montserrat-Regular.ttf
+         - asset: assets/fonts/Montserrat-SemiBold.ttf
            weight: 700
 
   #         style: italic
